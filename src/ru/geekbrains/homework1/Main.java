@@ -5,8 +5,7 @@ public class Main {
 
         //2. Создать переменные всех пройденных типов данных, и инициализировать их значения;
         double a=1;
-        int b;
-        b=2;
+        int b=2;
         char d='3';
         boolean e=false;
         String p = "Привет";
